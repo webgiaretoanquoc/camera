@@ -1,0 +1,1756 @@
+Uri: https://camera.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/5-phu-kien-can-thiet-cho-honda-city-camera-hanh-trinh-webvision/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\5-phu-kien-can-thiet-cho-honda-city-camera-hanh-trinh-webvision\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/5-phu-kien-can-thiet-cho-honda-city-camera-hanh-trinh-webvision/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\5-phu-kien-can-thiet-cho-honda-city-camera-hanh-trinh-webvision\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/camera-360-co-tac-dung-gi-co-the-ban-nen-biet/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\camera-360-co-tac-dung-gi-co-the-ban-nen-biet\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/camera-360-co-tac-dung-gi-co-the-ban-nen-biet/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\camera-360-co-tac-dung-gi-co-the-ban-nen-biet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/camera-hanh-trinh-la-gi-co-tat-ca-bao-nhieu-loai/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\camera-hanh-trinh-la-gi-co-tat-ca-bao-nhieu-loai\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/camera-hanh-trinh-la-gi-co-tat-ca-bao-nhieu-loai/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\camera-hanh-trinh-la-gi-co-tat-ca-bao-nhieu-loai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/cau-hoi-thuong-gap/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\cau-hoi-thuong-gap\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/chao-moi-nguoi/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\chao-moi-nguoi\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/chao-moi-nguoi/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\chao-moi-nguoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/chuyen-muc/tin-tuc/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\chuyen-muc\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/chuyen-muc/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\chuyen-muc\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/audi/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\audi\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/audi/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\audi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/cam-bien-lui/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\cam-bien-lui\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/cam-bien-lui/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\cam-bien-lui\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/camera-lui/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\camera-lui\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/camera-lui/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\camera-lui\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/chervolet/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\chervolet\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/chervolet/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\chervolet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/dau-android-zestect/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\dau-android-zestect\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/dau-android-zestect/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\dau-android-zestect\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/dau-dvd-itachi/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\dau-dvd-itachi\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/dau-dvd-itachi/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\dau-dvd-itachi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/dau-dvd-kovan/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\dau-dvd-kovan\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/dau-dvd-kovan/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\dau-dvd-kovan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/ford/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\ford\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/ford/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\ford\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/honda/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\honda\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/honda/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\honda\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/huyndai/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\huyndai\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/huyndai/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\huyndai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/kia/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\kia\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/kia/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\kia\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/mazda/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\mazda\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/mazda/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\mazda\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/misubishi/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\misubishi\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/misubishi/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\misubishi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/nissan/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\nissan\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/nissan/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\nissan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/suzuki/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\suzuki\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/suzuki/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\suzuki\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/danh-muc/toyota/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\toyota\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/danh-muc/toyota/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\danh-muc\toyota\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/hyundai-motor-group-phat-trien-he-thong-dinh-vi-dua-tren-cong-nghe-ar/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\hyundai-motor-group-phat-trien-he-thong-dinh-vi-dua-tren-cong-nghe-ar\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/hyundai-motor-group-phat-trien-he-thong-dinh-vi-dua-tren-cong-nghe-ar/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\hyundai-motor-group-phat-trien-he-thong-dinh-vi-dua-tren-cong-nghe-ar\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/mua/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\mua\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/mua/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\mua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/qua-sai-lam-khi-coi-o-to-la-noi-tranh-nhung-o-nhiem-ben-ngoai/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\qua-sai-lam-khi-coi-o-to-la-noi-tranh-nhung-o-nhiem-ben-ngoai\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/qua-sai-lam-khi-coi-o-to-la-noi-tranh-nhung-o-nhiem-ben-ngoai/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\qua-sai-lam-khi-coi-o-to-la-noi-tranh-nhung-o-nhiem-ben-ngoai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/bo-tau-chia-3-o-to-hoco-c1-chinh-hang/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\bo-tau-chia-3-o-to-hoco-c1-chinh-hang\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/bo-tau-chia-3-o-to-hoco-c1-chinh-hang/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\bo-tau-chia-3-o-to-hoco-c1-chinh-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/bom-dien-12v-michelin-12260/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\bom-dien-12v-michelin-12260\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/bom-dien-12v-michelin-12260/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\bom-dien-12v-michelin-12260\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/bom-dien-michelin-12264/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\bom-dien-michelin-12264\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/bom-dien-michelin-12264/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\bom-dien-michelin-12264\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/bom-dien-michelin-12266/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\bom-dien-michelin-12266\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/bom-dien-michelin-12266/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\bom-dien-michelin-12266\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/bom-tu-va-pferd-4t-5s/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\bom-tu-va-pferd-4t-5s\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/bom-tu-va-pferd-4t-5s/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\bom-tu-va-pferd-4t-5s\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/nguon-cac-mau-camera-hanh-trinh-webvision/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\nguon-cac-mau-camera-hanh-trinh-webvision\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/nguon-cac-mau-camera-hanh-trinh-webvision/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\nguon-cac-mau-camera-hanh-trinh-webvision\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/the-nho-samsung-evo-64gb/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\the-nho-samsung-evo-64gb\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/the-nho-samsung-evo-64gb/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\the-nho-samsung-evo-64gb\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-6203w/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-6203w\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-6203w/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-6203w\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-6204w/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-6204w\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-6204w/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-6204w\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-6206hdw/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-6206hdw\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-6206hdw/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-6206hdw\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-a69-man-hinh-android-da-nang-thong-minh/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-a69-man-hinh-android-da-nang-thong-minh\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-a69-man-hinh-android-da-nang-thong-minh/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-a69-man-hinh-android-da-nang-thong-minh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-m39-camera-hanh-trinh-guong-giam-sat-tu-xa/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-m39-camera-hanh-trinh-guong-giam-sat-tu-xa\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-m39-camera-hanh-trinh-guong-giam-sat-tu-xa/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-m39-camera-hanh-trinh-guong-giam-sat-tu-xa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-n93-plus-camera-hanh-trinh-thong-minh-truyen-hinh-truc-tiep/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-n93-plus-camera-hanh-trinh-thong-minh-truyen-hinh-truc-tiep\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-n93-plus-camera-hanh-trinh-thong-minh-truyen-hinh-truc-tiep/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-n93-plus-camera-hanh-trinh-thong-minh-truyen-hinh-truc-tiep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-n93-thiet-bi-dan-duong-camera-hanh-trinh-kep/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-n93-thiet-bi-dan-duong-camera-hanh-trinh-kep\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-n93-thiet-bi-dan-duong-camera-hanh-trinh-kep/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-n93-thiet-bi-dan-duong-camera-hanh-trinh-kep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-n93x-man-hinh-android-da-nang-thong-minh/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-n93x-man-hinh-android-da-nang-thong-minh\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-n93x-man-hinh-android-da-nang-thong-minh/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-n93x-man-hinh-android-da-nang-thong-minh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-s5-camera-hanh-trinh-ghi-hinh-truoc-sau/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-s5-camera-hanh-trinh-ghi-hinh-truoc-sau\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-s5-camera-hanh-trinh-ghi-hinh-truoc-sau/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-s5-camera-hanh-trinh-ghi-hinh-truoc-sau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-s6263yhd/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-s6263yhd\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-s6263yhd/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-s6263yhd\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-s633y-i9/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-s633y-i9\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-s633y-i9/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-s633y-i9\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-s8-camera-hanh-trinh-2k-adas-canh-bao-toc-do/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-s8-camera-hanh-trinh-2k-adas-canh-bao-toc-do\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-s8-camera-hanh-trinh-2k-adas-canh-bao-toc-do/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-s8-camera-hanh-trinh-2k-adas-canh-bao-toc-do\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-t6100ip/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-t6100ip\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-t6100ip/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-t6100ip\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-t6836w/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-t6836w\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-t6836w/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-t6836w\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-t7202w/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-t7202w\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/san-pham/webvision-t7202w/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\san-pham\webvision-t7202w\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/so-huu-honda-city-nen-chon-loai-camera-hanh-trinh-the-nao/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\so-huu-honda-city-nen-chon-loai-camera-hanh-trinh-the-nao\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/so-huu-honda-city-nen-chon-loai-camera-hanh-trinh-the-nao/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\so-huu-honda-city-nen-chon-loai-camera-hanh-trinh-the-nao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/tag/camera-hanh-trinh/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tag\camera-hanh-trinh\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tag/camera-hanh-trinh/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tag\camera-hanh-trinh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/tag/man-hinh-dvd-cho-ot-o/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tag\man-hinh-dvd-cho-ot-o\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tag/man-hinh-dvd-cho-ot-o/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tag\man-hinh-dvd-cho-ot-o\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/tag/trang-bi-xe-hoi/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tag\trang-bi-xe-hoi\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tag/trang-bi-xe-hoi/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tag\trang-bi-xe-hoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tai-sao-dvd-o-to-chay-android-dang-gay-sot-cac-tin-do-giai-tri-da-phuong-tien/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tai-sao-dvd-o-to-chay-android-dang-gay-sot-cac-tin-do-giai-tri-da-phuong-tien\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tai-sao-dvd-o-to-chay-android-dang-gay-sot-cac-tin-do-giai-tri-da-phuong-tien/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tai-sao-dvd-o-to-chay-android-dang-gay-sot-cac-tin-do-giai-tri-da-phuong-tien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/thuong-hieu/ahua/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\thuong-hieu\ahua\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/thuong-hieu/ahua/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\thuong-hieu\ahua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/thuong-hieu/gnet/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\thuong-hieu\gnet\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/thuong-hieu/gnet/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\thuong-hieu\gnet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/thuong-hieu/panasonic/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\thuong-hieu\panasonic\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/thuong-hieu/panasonic/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\thuong-hieu\panasonic\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/thuong-hieu/vantech/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\thuong-hieu\vantech\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/thuong-hieu/vantech/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\thuong-hieu\vantech\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/bo-chia-tau-cho-o-to/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\bo-chia-tau-cho-o-to\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/bo-chia-tau-cho-o-to/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\bo-chia-tau-cho-o-to\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/bom-dien-tu-va/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\bom-dien-tu-va\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/bom-dien-tu-va/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\bom-dien-tu-va\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/bom-dien/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\bom-dien\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/bom-dien/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\bom-dien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/bom-tu-va-cao-cap/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\bom-tu-va-cao-cap\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/bom-tu-va-cao-cap/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\bom-tu-va-cao-cap\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/camera-hanh-trinh-gia-cao/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\camera-hanh-trinh-gia-cao\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/camera-hanh-trinh-gia-cao/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\camera-hanh-trinh-gia-cao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/ip-camera/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\ip-camera\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/ip-camera/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\ip-camera\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/thiet-bi-dan-duong/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\thiet-bi-dan-duong\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/tu-khoa-san-pham/thiet-bi-dan-duong/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\tu-khoa-san-pham\thiet-bi-dan-duong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/webvision-m39-manh-ghep-hoan-hao-cho-dong-xe-sedan-gia-re-kia-cerato-smt/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\webvision-m39-manh-ghep-hoan-hao-cho-dong-xe-sedan-gia-re-kia-cerato-smt\index.htm
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/webvision-m39-manh-ghep-hoan-hao-cho-dong-xe-sedan-gia-re-kia-cerato-smt/feed/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\webvision-m39-manh-ghep-hoan-hao-cho-dong-xe-sedan-gia-re-kia-cerato-smt\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://camera.webtudong8giay.com/wp-admin/css/forms.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-admin/css/l10n.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-admin/css/login.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://camera.webtudong8giay.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://camera.webtudong8giay.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://camera.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-admin/js/user-profile.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/css/devvn-quick-buy.css?ver=2.0.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\css\devvn-quick-buy.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/images/close.png
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\images\close.png
+Content Type: image/png
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/devvn-quick-buy.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\devvn-quick-buy.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/jquery.bpopup.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\jquery.bpopup.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/jquery.validate.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/perfect-woocommerce-brands/assets/css/styles-frontend.min.css?ver=2.2.6
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\perfect-woocommerce-brands\assets\css\styles-frontend.min.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/perfect-woocommerce-brands/assets/js/functions-frontend.min.js?ver=2.2.6
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\perfect-woocommerce-brands\assets\js\functions-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/6203w-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\6203w-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/6203w-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\6203w-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/6203w.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\6203w.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/6204w-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\6204w-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/6204w-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\6204w-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/6204w.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\6204w.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/6206w-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\6206w-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/6206w-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\6206w-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/6206w.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\6206w.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/bom-dien-12v-michelin-12260-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\bom-dien-12v-michelin-12260-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/bom-dien-12v-michelin-12260.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\bom-dien-12v-michelin-12260.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/bom-dien-michelin-12264-2-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\bom-dien-michelin-12264-2-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/bom-dien-michelin-12264-2-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\bom-dien-michelin-12264-2-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/bom-dien-michelin-12264-2.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\bom-dien-michelin-12264-2.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/bom-dien-michelin-12266-3-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\bom-dien-michelin-12266-3-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/bom-dien-michelin-12266-3-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\bom-dien-michelin-12266-3-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/bom-dien-michelin-12266-3.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\bom-dien-michelin-12266-3.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Bom-tu-va-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Bom-tu-va-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Bom-tu-va.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Bom-tu-va.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/c1-3-in-1car-charger-white-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\c1-3-in-1car-charger-white-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/c1-3-in-1car-charger-white-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\c1-3-in-1car-charger-white-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/c1-3-in-1car-charger-white.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\c1-3-in-1car-charger-white.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-hành-trình.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-hành-trình.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-hanh-trinh-2-1-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-hanh-trinh-2-1-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-hanh-trinh-2-1-1-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-hanh-trinh-2-1-1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-hanh-trinh-2-1-1.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-hanh-trinh-2-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-hanh-trinh-2-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-hanh-trinh-2-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-hanh-trinh-2-1-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-hanh-trinh-2-1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-hanh-trinh-2-1.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-hanh-trinh-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-hanh-trinh-gia-re-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-hanh-trinh-gia-re-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-hanh-trinh-gia-re-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-hanh-trinh-gia-re-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-hanh-trinh-gia-re.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-hanh-trinh-gia-re.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-hanh-trinh-n93-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-hanh-trinh-n93-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-hanh-trinh-n93.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-hanh-trinh-n93.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/camera-quan-sát.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\camera-quan-sát.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/check@2x.png
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\check@2x.png
+Content Type: image/png
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/icon-support.png
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\icon-support.png
+Content Type: image/png
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/N93X-1-600x600.png
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\N93X-1-600x600.png
+Content Type: image/png
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Nguon-s8-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Nguon-s8-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Nguon-s8-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Nguon-s8-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Nguon-s8.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Nguon-s8.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/phụ-kiện-camera.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\phụ-kiện-camera.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/product1-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\product1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/product1-247x283.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\product1-247x283.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/product1.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\product1.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/samsung-64gb-class10-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\samsung-64gb-class10-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/samsung-64gb-class10.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\samsung-64gb-class10.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/T6836W-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\T6836W-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/T6836W-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\T6836W-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/T6836W.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\T6836W.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Thiết-bị-dẫn-đường.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Thiết-bị-dẫn-đường.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/thiet-bi-dan-duong-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\thiet-bi-dan-duong-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/thiet-bi-dan-duong-2-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\thiet-bi-dan-duong-2-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/thiet-bi-dan-duong-2-247x283.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\thiet-bi-dan-duong-2-247x283.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/thiet-bi-dan-duong-2.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\thiet-bi-dan-duong-2.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/thiet-bi-dan-duong-247x283.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\thiet-bi-dan-duong-247x283.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/thiet-bi-dan-duong.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\thiet-bi-dan-duong.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Webvision-S633Y-i9-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Webvision-S633Y-i9-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Webvision-S633Y-i9-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Webvision-S633Y-i9-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Webvision-S633Y-i9.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Webvision-S633Y-i9.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Webvision-T6100WIP-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Webvision-T6100WIP-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Webvision-T6100WIP-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Webvision-T6100WIP-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Webvision-T6100WIP.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Webvision-T6100WIP.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Webvision-T7202W-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Webvision-T7202W-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Webvision-T7202W-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Webvision-T7202W-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/Webvision-T7202W.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\Webvision-T7202W.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/WebvisionS6263Y-HD-100x100.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\WebvisionS6263Y-HD-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/WebvisionS6263Y-HD-247x296.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\WebvisionS6263Y-HD-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/03/WebvisionS6263Y-HD.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\03\WebvisionS6263Y-HD.jpg
+Content Type: image/jpeg
+
+Uri: https://camera.webtudong8giay.com/wp-content/uploads/2019/05/lgo.png
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-content\uploads\2019\05\lgo.png
+Content Type: image/png
+
+Uri: https://camera.webtudong8giay.com/wp-includes/css/buttons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://camera.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://camera.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://camera.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://camera.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2F5-phu-kien-can-thiet-cho-honda-city-camera-hanh-trinh-webvision%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2F5-phu-kien-can-thiet-cho-honda-city-camera-hanh-trinh-webvision%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fcamera-360-co-tac-dung-gi-co-the-ban-nen-biet%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fcamera-360-co-tac-dung-gi-co-the-ban-nen-biet%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fcamera-hanh-trinh-la-gi-co-tat-ca-bao-nhieu-loai%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fcamera-hanh-trinh-la-gi-co-tat-ca-bao-nhieu-loai%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fcau-hoi-thuong-gap%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fcau-hoi-thuong-gap%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fchao-moi-nguoi%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fchao-moi-nguoi%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fhyundai-motor-group-phat-trien-he-thong-dinh-vi-dua-tren-cong-nghe-ar%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fhyundai-motor-group-phat-trien-he-thong-dinh-vi-dua-tren-cong-nghe-ar%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fqua-sai-lam-khi-coi-o-to-la-noi-tranh-nhung-o-nhiem-ben-ngoai%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fqua-sai-lam-khi-coi-o-to-la-noi-tranh-nhung-o-nhiem-ben-ngoai%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fbo-tau-chia-3-o-to-hoco-c1-chinh-hang%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fbo-tau-chia-3-o-to-hoco-c1-chinh-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fbom-dien-12v-michelin-12260%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fbom-dien-12v-michelin-12260%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fbom-dien-michelin-12264%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fbom-dien-michelin-12264%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fbom-dien-michelin-12266%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fbom-dien-michelin-12266%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fbom-tu-va-pferd-4t-5s%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fbom-tu-va-pferd-4t-5s%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fnguon-cac-mau-camera-hanh-trinh-webvision%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fnguon-cac-mau-camera-hanh-trinh-webvision%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fthe-nho-samsung-evo-64gb%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fthe-nho-samsung-evo-64gb%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-6203w%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-6203w%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-6204w%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-6204w%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-6206hdw%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-6206hdw%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-a69-man-hinh-android-da-nang-thong-minh%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-a69-man-hinh-android-da-nang-thong-minh%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-m39-camera-hanh-trinh-guong-giam-sat-tu-xa%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-m39-camera-hanh-trinh-guong-giam-sat-tu-xa%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-n93-plus-camera-hanh-trinh-thong-minh-truyen-hinh-truc-tiep%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-n93-plus-camera-hanh-trinh-thong-minh-truyen-hinh-truc-tiep%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-n93-thiet-bi-dan-duong-camera-hanh-trinh-kep%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-n93-thiet-bi-dan-duong-camera-hanh-trinh-kep%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-n93x-man-hinh-android-da-nang-thong-minh%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-n93x-man-hinh-android-da-nang-thong-minh%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-s5-camera-hanh-trinh-ghi-hinh-truoc-sau%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-s5-camera-hanh-trinh-ghi-hinh-truoc-sau%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-s6263yhd%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-s6263yhd%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-s633y-i9%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-s633y-i9%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-s8-camera-hanh-trinh-2k-adas-canh-bao-toc-do%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-s8-camera-hanh-trinh-2k-adas-canh-bao-toc-do%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-t6100ip%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-t6100ip%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-t6836w%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-t6836w%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-t7202w%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fsan-pham%2Fwebvision-t7202w%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fso-huu-honda-city-nen-chon-loai-camera-hanh-trinh-the-nao%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fso-huu-honda-city-nen-chon-loai-camera-hanh-trinh-the-nao%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Ftai-sao-dvd-o-to-chay-android-dang-gay-sot-cac-tin-do-giai-tri-da-phuong-tien%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Ftai-sao-dvd-o-to-chay-android-dang-gay-sot-cac-tin-do-giai-tri-da-phuong-tien%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fwebvision-m39-manh-ghep-hoan-hao-cho-dong-xe-sedan-gia-re-kia-cerato-smt%2F
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcamera.webtudong8giay.com%2Fwebvision-m39-manh-ghep-hoan-hao-cho-dong-xe-sedan-gia-re-kia-cerato-smt%2F&format=xml
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/pages/30
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\pages\30
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/pages/32
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\pages\32
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/pages/514
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\pages\514
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/pages/516
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\pages\516
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/pages/646
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\pages\646
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/posts/294
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\posts\294
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/posts/298
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\posts\298
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/posts/301
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\posts\301
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/posts/304
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\posts\304
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/posts/732
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\posts\732
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/posts/735
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\posts\735
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/posts/737
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\posts\737
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/posts/740
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\posts\740
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/166
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\166
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/168
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\168
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/170
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\170
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/173
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\173
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/190
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\190
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/192
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\192
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/194
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\194
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/196
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\196
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/198
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\198
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/200
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\200
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/202
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\202
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/204
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\204
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/206
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\206
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/208
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\208
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/210
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\210
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/212
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\212
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/214
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\214
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/216
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\216
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/218
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\218
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/220
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\220
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/223
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\223
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product/225
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product\225
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/17
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\17
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/18
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\18
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/19
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\19
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/20
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\20
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/31
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\31
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/32
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\32
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/33
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\33
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/34
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\34
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/35
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\35
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/36
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\36
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/37
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\37
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/38
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\38
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/39
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\39
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/40
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\40
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/41
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\41
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_cat/42
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_cat\42
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_tag/21
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_tag\21
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_tag/22
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_tag\22
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_tag/23
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_tag\23
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_tag/24
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_tag\24
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_tag/25
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_tag\25
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_tag/26
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_tag\26
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/product_tag/27
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\product_tag\27
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/tags/28
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\tags\28
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/tags/29
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\tags\29
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/tags/49
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\tags\49
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-json/wp/v2/users/2
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-json\wp\v2\users\2
+Content Type: application/json
+
+Uri: https://camera.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fcamera.webtudong8giay.com%2Fwp-admin%2Fwidgets.php&reauth=1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\wp-login.php.html
+Content Type: text/html
+
+Uri: https://camera.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Barlow:regular%2C600%2C600|Roboto:regular%2Cregular|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_DMs8.ttf
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\s\barlow\v12\7cHpv4kjgoGqM7E_DMs8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s51op.ttf
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\s\barlow\v12\7cHqv4kjgoGqM7E30-8s51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fcamera.webtudong8giay.com%252F5-phu-kien-can-thiet-cho-honda-city-camera-hanh-trinh-webvision%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fcamera.webtudong8giay.com%252Fcamera-360-co-tac-dung-gi-co-the-ban-nen-biet%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fcamera.webtudong8giay.com%252Fcamera-hanh-trinh-la-gi-co-tat-ca-bao-nhieu-loai%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fcamera.webtudong8giay.com%252Fchao-moi-nguoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fcamera.webtudong8giay.com%252Fhyundai-motor-group-phat-trien-he-thong-dinh-vi-dua-tren-cong-nghe-ar%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fcamera.webtudong8giay.com%252Fqua-sai-lam-khi-coi-o-to-la-noi-tranh-nhung-o-nhiem-ben-ngoai%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fcamera.webtudong8giay.com%252Fso-huu-honda-city-nen-chon-loai-camera-hanh-trinh-the-nao%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fcamera.webtudong8giay.com%252Ftai-sao-dvd-o-to-chay-android-dang-gay-sot-cac-tin-do-giai-tri-da-phuong-tien%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fcamera.webtudong8giay.com%252Fwebvision-m39-manh-ghep-hoan-hao-cho-dong-xe-sedan-gia-re-kia-cerato-smt%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://webtudong8giay.com/web-builder/assets/login/nen-admin.jpg
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\web-builder\assets\login\nen-admin.jpg
+Content Type: image/jpeg
+
+Uri: https://webtudong8giay.com/web-builder/assets/login/style.css?ver=6.1
+File Name: C:\Downloaded Web Sites\camera.webtudong8giay.com\web-builder\assets\login\style.css
+Content Type: text/css
+
